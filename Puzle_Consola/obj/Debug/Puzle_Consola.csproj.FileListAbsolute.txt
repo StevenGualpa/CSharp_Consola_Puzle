@@ -1,0 +1,14 @@
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.exe.config
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.exe
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.pdb
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.exe
+c:\users\steven\documents\visual studio 2015\Projects\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.pdb
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.exe.config
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\bin\Debug\Puzle_Consola.pdb
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.csproj.AssemblyReference.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Puzle_Consola\Puzle_Consola\obj\Debug\Puzle_Consola.pdb
